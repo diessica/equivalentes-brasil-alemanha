@@ -31,7 +31,6 @@
 * vinagre: essig (cuida o nível de álcool, uma vez quase morri comendo uma salada)
 
 ## bebida
-
 * quentão: gluhwein
 * listerine: berliner luft
 * skol beats: radler
@@ -46,14 +45,12 @@
 * garganta: Dobendan (estilo Benalet/Strepsils)
 
 ## lugares
-
 * carrefour: netto
 * loja de 1,99: tedi; euroshop; Kik
 * leroy merlin/cassol centerlar e tal: IKEA; Bauhaus
 * "mercadinho da esquina": spätkauf
 * cavanhas: burgermeister
 
-## produtos
-
+## higiene/limpeza
 * clorofina: danklorix
 
