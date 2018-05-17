@@ -1,5 +1,5 @@
 # equivalentes brasil/alemanha
-> pra quem tá se mudando pra Alemanha mas quer continuar sendo feliz
+> pra quem tá se mudando pra Alemanha mas quer continuar sendo feliz 🇧🇷🇩🇪
 
 ## comida
 - leite condensado: milch mädchen
@@ -25,4 +25,7 @@
 ## lugares
 
 * carrefour: netto
+* loja de 1,99: tedi, euroshop
+* leroy merlin/cassol centerlar e tal: IKEA
+* "mercadinho da esquina": spätkauf
 * cavanhas: burgermeister
