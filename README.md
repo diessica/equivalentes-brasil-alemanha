@@ -1,4 +1,5 @@
 # equivalentes brasil/alemanha
+> pra quem tá se mudando pra Alemanha mas quer continuar sendo feliz
 
 ## comida
 - leite condensado: milch mädchen
@@ -10,3 +11,5 @@
 - sonho: berliner
 - arroz e feijão: burrito bowl sem as frescuras
 - arroz doce: milchreis
+- cuca: streuselkuchen
+- granola/cereal: müsli
