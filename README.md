@@ -24,3 +24,4 @@
 
 * carrefour: netto
 * loja de 1,99: tedi, euroshop
+* leroy merlin/cassol centerlar e tal: IKEA
