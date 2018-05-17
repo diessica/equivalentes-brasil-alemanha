@@ -2,6 +2,7 @@
 > pra quem tá se mudando pra Alemanha mas quer continuar sendo feliz 🇧🇷🇩🇪
 
 ## comida
+* franguinho musculado: bemuskelt hähnchen 
 * arroz doce: milchreis
 * arroz e feijão: burrito bowl sem as frescuras
 * batata palha: kartoffelsticks
