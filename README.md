@@ -20,6 +20,10 @@
 - vinagre: essig (cuida o nível de álcool, uma vez quase morri comendo uma salada)
 - salsinha: petersilie
 - manjericão: basilikum
+- maizena: speisestärke
+- leite ninho: Nestle Nido
+- pão de queijo: tem pózinho da Yoki na Galeria Kaufhof (às vezes está na seção de produtos brasileiros mas às vezes está na seção fitness/gluten free, pelo menos em Berlin)
+- polvilho: tapioca stärke (sempre tem nos mercados asiáticos)
 
 
 ## bebida
@@ -34,10 +38,11 @@
 - calmante: baldrian; seakalm
 - tosse/sinusite/bronquite: gelomyrtol forte
 - complexo vitamínico: vitaminkomplex (qualquer Rossman ou DM)
+- garganta: Dobendan (estilo Benalet/Strepsils)
 
 ## lugares
 
 - carrefour: netto
-- loja de 1,99: tedi; euroshop
-- leroy merlin/cassol centerlar e tal: IKEA
+- loja de 1,99: tedi; euroshop; Kik
+- leroy merlin/cassol centerlar e tal: IKEA; Bauhaus
 - "mercadinho da esquina": spätkauf
