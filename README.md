@@ -16,6 +16,7 @@
 - picanha: tafelspitz 
 - bisnaguinha: milchbrötchen
 - salsicha de cachorro quente: wiener wurst
+- bebida láctea: joghurtdrink
 
 ## bebida
 
