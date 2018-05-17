@@ -13,3 +13,4 @@
 - arroz doce: milchreis
 - cuca: streuselkuchen
 - granola/cereal: müsli
+- picanha: tafelspitz 
