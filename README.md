@@ -50,6 +50,7 @@
 * leroy merlin/cassol centerlar e tal: IKEA; Bauhaus
 * "mercadinho da esquina": spätkauf
 * cavanhas: burgermeister
+* casas bahia: [POCO](https://www.poco.de/)
 
 ## higiene/limpeza
 * clorofina: danklorix
