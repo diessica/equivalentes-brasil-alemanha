@@ -25,6 +25,7 @@
 * pão de queijo: tem pózinho da Yoki na Galeria Kaufhof (às vezes está na seção de produtos brasileiros mas às vezes está na seção fitness/gluten free, pelo menos em Berlin)
 * polvilho: tapioca stärke (sempre tem nos mercados asiáticos)
 * dogão: bratwurst
+* creme de leite: crème fraîche; saure sahne/sauerrahm (o "sour cream", gosto evidente e mais líquido); schmand (tipo sour cream só que mais gordura)
 
 ## bebida
 
