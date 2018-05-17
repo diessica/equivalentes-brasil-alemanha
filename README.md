@@ -24,6 +24,7 @@
 * pão de queijo: tem pózinho da Yoki na Galeria Kaufhof (às vezes está na seção de produtos brasileiros mas às vezes está na seção fitness/gluten free, pelo menos em Berlin)
 * picanha: tafelspitz (mit der fett)
 * polvilho: tapioca stärke (sempre tem nos mercados asiáticos)
+* queijo-coalho: halloumi käse (grill cheese)
 * requeijão: schmelzkäsezubereitung
 * salsicha de cachorro quente: wiener wurst
 * salsinha: petersilie
