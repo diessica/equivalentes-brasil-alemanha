@@ -17,10 +17,14 @@
 - bisnaguinha: milchbrötchen
 - salsicha de cachorro quente: wiener wurst
 - bebida láctea: joghurtdrink
+- vinagre: essig (cuida o nível de álcool, uma vez quase morri comendo uma salada)
+- salsinha: petersilie
+- manjericão: basilikum
 - maizena: speisestärke
 - leite ninho: Nestle Nido
 - pão de queijo: tem pózinho da Yoki na Galeria Kaufhof (às vezes está na seção de produtos brasileiros mas às vezes está na seção fitness/gluten free, pelo menos em Berlin)
 - polvilho: tapioca stärke (sempre tem nos mercados asiáticos)
+
 
 ## bebida
 
