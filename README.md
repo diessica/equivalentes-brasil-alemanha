@@ -14,3 +14,12 @@
 - cuca: streuselkuchen
 - granola/cereal: müsli
 - picanha: tafelspitz 
+
+## 'bebida'
+
+* quentão: gluhwein
+* listerine: berliner luft
+
+## lugares
+
+* carrefour: netto
