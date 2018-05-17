@@ -3,11 +3,13 @@
 
 ## comida
 * arroz doce: milchreis
+* arroz comum: basmati reis
+* feijão preto: schwarze bohnen
 * arroz e feijão: burrito bowl sem as frescuras
 * batata palha: kartoffelsticks
 * bebida láctea: joghurtdrink
 * bisnaguinha: milchbrötchen
-* cacetinho: brötchen
+* cacetinho/pão de sal/pão francês: brötchen
 * chantilli: schlagsahne
 * creme de leite:
   1. crème fraîche (cuida para não pegar o light!);
@@ -30,6 +32,7 @@
 * salsinha: petersilie
 * sonho: berliner
 * vinagre: essig (cuida o nível de álcool, uma vez quase morri comendo uma salada)
+* fubá: maismehl
 
 ## bebida
 * quentão: gluhwein
@@ -47,6 +50,7 @@
 
 ## lugares
 * carrefour: netto
+* walmart: kaufland
 * loja de 1,99: tedi; euroshop; Kik
 * leroy merlin/cassol centerlar e tal: IKEA; Bauhaus
 * "mercadinho da esquina": spätkauf
@@ -60,4 +64,5 @@
 * PIS/PASEP: Rentenversicherungsnummer
 * CPF: Finanzamt Persönliche Identifikationsnummer
 * CNH: Führerschein
+* Bolsa família: Kindergeld
 
