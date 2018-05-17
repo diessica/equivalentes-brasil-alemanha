@@ -14,6 +14,7 @@
 - cuca: streuselkuchen
 - granola/cereal: müsli
 - picanha: tafelspitz 
+- bisnaguinha: milchbrötchen
 
 ## bebida
 
