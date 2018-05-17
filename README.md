@@ -17,6 +17,10 @@
 - bisnaguinha: milchbrötchen
 - salsicha de cachorro quente: wiener wurst
 - bebida láctea: joghurtdrink
+- vinagre: essig (cuida o nível de álcool, uma vez quase morri comendo uma salada)
+- salsinha: petersilie
+- manjericão: basilikum
+
 
 ## bebida
 
