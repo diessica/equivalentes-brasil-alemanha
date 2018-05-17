@@ -3,6 +3,7 @@
 
 ## comida
 * arroz doce: milchreis
+* arroz: jasmin reis (o mais parecido com o nosso arroz)
 * arroz e feijão: burrito bowl sem as frescuras
 * batata palha: kartoffelsticks
 * bebida láctea: joghurtdrink
