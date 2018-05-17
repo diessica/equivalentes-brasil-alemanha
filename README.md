@@ -57,6 +57,6 @@
 
 ## documentos
 * PIS/PASEP: Rentenversicherungsnummer
-* CPF: Persönliche Identifikationsnummer
+* CPF: Finanzamt Persönliche Identifikationsnummer
 * CNH: Führerschein
 
