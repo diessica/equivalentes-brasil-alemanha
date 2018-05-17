@@ -28,9 +28,9 @@
 
 ## bebida
 
-* quentão: gluhwein
-* listerine: berliner luft
-* skol beats: radler
+- quentão: gluhwein
+- listerine: berliner luft
+- skol beats: radler
 
 ## remédios
 * dor de cabeça: ibu lysin hexal; paracetamol
@@ -48,4 +48,8 @@
 * leroy merlin/cassol centerlar e tal: IKEA; Bauhaus
 * "mercadinho da esquina": spätkauf
 * cavanhas: burgermeister
+
+## produtos
+
+* clorofina: danklorix
 
