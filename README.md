@@ -15,7 +15,7 @@
 - granola/cereal: müsli
 - picanha: tafelspitz 
 - bisnaguinha: milchbrötchen
-- salsicha de cachorro quente: Wiener (Wiener Wurst)
+- salsicha de cachorro quente: wiener wurst
 
 ## bebida
 
