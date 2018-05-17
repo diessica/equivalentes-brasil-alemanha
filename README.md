@@ -9,7 +9,7 @@
 * bisnaguinha: milchbrötchen
 * cacetinho: brötchen
 * chantilli: schlagsahne
-* creme de leite
+* creme de leite:
   1. crème fraîche (cuida para não pegar o light!);
   2. saure sahne/sauerrahm (o "sour cream", gosto evidente e mais líquido);
   3. schmand (tipo sour cream só que mais gordura)
