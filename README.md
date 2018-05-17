@@ -10,5 +10,6 @@
 - farinha láctea: milchbrei
 - sonho: berliner
 - arroz e feijão: burrito bowl sem as frescuras
+- arroz doce: milchreis
 - cuca: streuselkuchen
 - granola/cereal: müsli
