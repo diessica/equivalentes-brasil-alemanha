@@ -55,3 +55,8 @@
 ## higiene/limpeza
 * clorofina: danklorix
 
+## documentos
+* PIS/PASEP: Rentenversicherungsnummer
+* CPF: Persönliche Identifikationsnummer
+* CNH: Führerschein
+
