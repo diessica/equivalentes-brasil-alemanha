@@ -2,7 +2,7 @@
 > pra quem tá se mudando pra Alemanha mas quer continuar sendo feliz 🇧🇷🇩🇪
 
 ## comida
-- leite condensado: milch mädchen
+- leite condensado: milch mädchen ou kondensmilch gezuckerte
 - chantilli: schlagsahne
 - requeijão: schmelzkäsezubereitung
 - batata palha: kartoffelsticks
@@ -13,7 +13,7 @@
 - arroz doce: milchreis
 - cuca: streuselkuchen
 - granola/cereal: müsli
-- picanha: tafelspitz 
+- picanha: tafelspitz (mit der fett)
 - bisnaguinha: milchbrötchen
 - salsicha de cachorro quente: wiener wurst
 - bebida láctea: joghurtdrink
