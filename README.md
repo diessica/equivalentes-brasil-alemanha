@@ -2,30 +2,33 @@
 > pra quem tá se mudando pra Alemanha mas quer continuar sendo feliz 🇧🇷🇩🇪
 
 ## comida
-* leite condensado: milch mädchen ou kondensmilch gezuckerte
-* chantilli: schlagsahne
-* requeijão: schmelzkäsezubereitung
-* batata palha: kartoffelsticks
-* cacetinho: brötchen
-* farinha láctea: milchbrei
-* sonho: berliner
-* arroz e feijão: burrito bowl sem as frescuras
 * arroz doce: milchreis
-* cuca: streuselkuchen
-* granola/cereal: müsli
-* picanha: tafelspitz (mit der fett)
-* bisnaguinha: milchbrötchen
-* salsicha de cachorro quente: wiener wurst
+* arroz e feijão: burrito bowl sem as frescuras
+* batata palha: kartoffelsticks
 * bebida láctea: joghurtdrink
-* vinagre: essig (cuida o nível de álcool, uma vez quase morri comendo uma salada)
-* salsinha: petersilie
-* manjericão: basilikum
-* maizena: speisestärke
-* leite ninho: Nestle Nido
-* pão de queijo: tem pózinho da Yoki na Galeria Kaufhof (às vezes está na seção de produtos brasileiros mas às vezes está na seção fitness/gluten free, pelo menos em Berlin)
-* polvilho: tapioca stärke (sempre tem nos mercados asiáticos)
+* bisnaguinha: milchbrötchen
+* cacetinho: brötchen
+* chantilli: schlagsahne
+* creme de leite
+  1. crème fraîche (cuida para não pegar o light!);
+  2. saure sahne/sauerrahm (o "sour cream", gosto evidente e mais líquido);
+  3. schmand (tipo sour cream só que mais gordura)
+* cuca: streuselkuchen
 * dogão: bratwurst
-* creme de leite: crème fraîche; saure sahne/sauerrahm (o "sour cream", gosto evidente e mais líquido); schmand (tipo sour cream só que mais gordura)
+* farinha láctea: milchbrei
+* granola/cereal: müsli
+* leite condensado: kondensmilch gezuckerte ("Leite Moça" é Milchmädchen)
+* leite ninho: Nestle Nido
+* maizena: speisestärke
+* manjericão: basilikum
+* pão de queijo: tem pózinho da Yoki na Galeria Kaufhof (às vezes está na seção de produtos brasileiros mas às vezes está na seção fitness/gluten free, pelo menos em Berlin)
+* picanha: tafelspitz (mit der fett)
+* polvilho: tapioca stärke (sempre tem nos mercados asiáticos)
+* requeijão: schmelzkäsezubereitung
+* salsicha de cachorro quente: wiener wurst
+* salsinha: petersilie
+* sonho: berliner
+* vinagre: essig (cuida o nível de álcool, uma vez quase morri comendo uma salada)
 
 ## bebida
 
