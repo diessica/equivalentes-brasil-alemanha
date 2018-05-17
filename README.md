@@ -15,7 +15,7 @@
 - granola/cereal: müsli
 - picanha: tafelspitz 
 
-## 'bebida'
+## bebida
 
 * quentão: gluhwein
 * listerine: berliner luft
@@ -23,3 +23,4 @@
 ## lugares
 
 * carrefour: netto
+* loja de 1,99: tedi, euroshop
