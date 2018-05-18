@@ -3,8 +3,9 @@
 
 ## comida
 * arroz doce: milchreis
-* arroz: jasmin reis (o mais parecido com o nosso arroz)
-* arroz comum: basmati reis
+* arroz:
+  1. basmati reis (mais soltinho)
+  2. jasmin reis
 * feijão preto: schwarze bohnen
 * arroz e feijão: burrito bowl sem as frescuras
 * batata palha: kartoffelsticks
