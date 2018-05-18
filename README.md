@@ -3,6 +3,7 @@
 
 ## comida
 * arroz doce: milchreis
+* arroz: jasmin reis (o mais parecido com o nosso arroz)
 * arroz comum: basmati reis
 * feijão preto: schwarze bohnen
 * arroz e feijão: burrito bowl sem as frescuras
@@ -32,6 +33,8 @@
 * salsinha: petersilie
 * sonho: berliner
 * vinagre: essig (cuida o nível de álcool, uma vez quase morri comendo uma salada)
+* carne vermelha / boi / vaca: rindfleisch
+* pepperoni: mesmo nome, mas cuidado que pode ser a pimenta de nome pepperoni e não o "salame apimentado"
 * fubá: maismehl
 
 ## bebida
