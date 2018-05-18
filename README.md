@@ -4,11 +4,13 @@
 ## comida
 * arroz doce: milchreis
 * arroz: jasmin reis (o mais parecido com o nosso arroz)
+* arroz comum: basmati reis
+* feijão preto: schwarze bohnen
 * arroz e feijão: burrito bowl sem as frescuras
 * batata palha: kartoffelsticks
 * bebida láctea: joghurtdrink
 * bisnaguinha: milchbrötchen
-* cacetinho: brötchen
+* cacetinho/pão de sal/pão francês: brötchen
 * chantilli: schlagsahne
 * creme de leite:
   1. crème fraîche (cuida para não pegar o light!);
@@ -25,6 +27,7 @@
 * pão de queijo: tem pózinho da Yoki na Galeria Kaufhof (às vezes está na seção de produtos brasileiros mas às vezes está na seção fitness/gluten free, pelo menos em Berlin)
 * picanha: tafelspitz (mit der fett)
 * polvilho: tapioca stärke (sempre tem nos mercados asiáticos)
+* queijo-coalho: halloumi käse (grill cheese)
 * requeijão: schmelzkäsezubereitung
 * salsicha de cachorro quente: wiener wurst
 * salsinha: petersilie
@@ -32,6 +35,7 @@
 * vinagre: essig (cuida o nível de álcool, uma vez quase morri comendo uma salada)
 * carne vermelha / boi / vaca: rindfleisch
 * pepperoni: mesmo nome, mas cuidado que pode ser a pimenta de nome pepperoni e não o "salame apimentado"
+* fubá: maismehl
 
 ## bebida
 * quentão: gluhwein
@@ -49,6 +53,7 @@
 
 ## lugares
 * carrefour: netto
+* walmart: kaufland
 * loja de 1,99: tedi; euroshop; Kik
 * leroy merlin/cassol centerlar e tal: IKEA; Bauhaus
 * "mercadinho da esquina": spätkauf
@@ -57,4 +62,10 @@
 
 ## higiene/limpeza
 * clorofina: danklorix
+
+## documentos
+* PIS/PASEP: Rentenversicherungsnummer
+* CPF: Finanzamt Persönliche Identifikationsnummer
+* CNH: Führerschein
+* Bolsa família: Kindergeld
 
