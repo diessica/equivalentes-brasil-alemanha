@@ -30,8 +30,6 @@
 * salsinha: petersilie
 * sonho: berliner
 * vinagre: essig (cuida o nível de álcool, uma vez quase morri comendo uma salada)
-* bacon: speck
-* presunto: schinken
 * carne vermelha / boi / vaca: rindfleisch
 * pepperoni: mesmo nome, mas cuidado que pode ser a pimenta de nome pepperoni e não o "salame apimentado"
 
