@@ -37,6 +37,7 @@
 * carne vermelha / boi / vaca: rindfleisch
 * pepperoni: mesmo nome, mas cuidado que pode ser a pimenta de nome pepperoni e não o "salame apimentado"
 * fubá: maismehl
+* xis: döner kebab (gosto diferente, mas a vibe é a mesma do xis gaúcho: comida barata, boa e com porção irada que tu acha em qualquer esquina)
 
 ## bebida
 * quentão: gluhwein
