@@ -64,6 +64,7 @@
 
 ## higiene/limpeza
 * clorofina: danklorix
+* anti-kalk: removedor de cal 
 
 ## documentos
 * PIS/PASEP: Rentenversicherungsnummer
