@@ -64,7 +64,7 @@
 
 ## higiene/limpeza
 * clorofina: danklorix
-* anti-kalk: removedor de cal 
+* removedor de cal: anti-kalk (com o tempo, o banheiro, azulejo e torneira ficam todos cobertos por uma camada de cal)
 
 ## documentos
 * PIS/PASEP: Rentenversicherungsnummer
