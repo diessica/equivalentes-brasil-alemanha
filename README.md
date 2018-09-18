@@ -58,7 +58,7 @@
 * Carrefour: Netto
 * Walmart: Kaufland
 * Loja de 1,99: Tedi; Euroshop; Kik
-* Leroy Merlin/cassol centerlar e tal: IKEA; Bauhaus
+* Leroy Merlin/Cassol Centerlar e tal: IKEA; Bauhaus
 * "Mercadinho da esquina": Spätkauf
 * Cavanhas: Burgermeister
 * Casas Bahia: [POCO](https://www.poco.de/)
