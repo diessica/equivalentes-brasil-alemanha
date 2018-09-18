@@ -73,3 +73,5 @@
 * CNH: Führerschein
 * Bolsa-família: Hartz IV; Kindergeld
 
+## utensílios
+* Panela de pressão: Schnellkochtopf 
