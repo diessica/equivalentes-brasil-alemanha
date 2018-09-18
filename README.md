@@ -1,8 +1,8 @@
-# Equivalentes Brasil/Alemanha
-> Para quem está se mudando pra Alemanha mas quer continuar sendo feliz 🇧🇷🇩🇪
+# equivalentes Brasil/Alemanha
+> para quem está se mudando pra Alemanha mas quer continuar sendo feliz 🇧🇷🇩🇪
 
-## Comida
-* Arroz doce/arroz de leite): Milchreis
+## comida
+* Arroz doce/Arroz de leite: Milchreis
 * Arroz:
   1. Basmati reis (mais soltinho)
   2. Jasmin reis
@@ -39,23 +39,23 @@
     * Fubá: Maismehl
 * Xis: Döner kebab (gosto diferente, mas a vibe é a mesma do xis gaúcho: comida barata, boa e com porção irada que tu acha em qualquer esquina)
 
-## Bebida
+## bebida
 * Quentão: Glühwein
 * Listerine: Berliner luft
 * Skol beats: Radler
 
-## Remédios
-* Dor de cabeça: ibu lysin hexal; paracetamol
-* Relaxante muscular: voltaren (em pílula ou pomada)
-* Azia: magen pastillen; magen tabletten
-* Calmante: baldrian; seakalm
-* Tosse/sinusite/bronquite: gelomyrtol forte
+## remédios
+* Dor de cabeça: Ibu Lysin Hexal; Paracetamol
+* Relaxante muscular: Voltaren (em pílula ou pomada)
+* Azia: Magen pastillen; Magen Tabletten
+* Calmante: Baldrian; Seakalm
+* Tosse/sinusite/bronquite: Gelomyrtol forte
 * Complexo vitamínico: Vitaminkomplex (qualquer Rossman ou DM)
 * Garganta: Dobendan (estilo Benalet/Strepsils)
 
-## Lugares
-* Carrefour: netto
-* Walmart: kaufland
+## locais
+* Carrefour: Netto
+* Walmart: Kaufland
 * Loja de 1,99: Tedi; Euroshop; Kik
 * Leroy Merlin/cassol centerlar e tal: IKEA; Bauhaus
 * "mercadinho da esquina": Spätkauf
@@ -65,9 +65,9 @@
 ## higiene/limpeza
 * Clorofina: Danklorix
 * Álcool: Brennspiritus
-* Removedor de cal: anti-kalk (com o tempo, o banheiro, azulejo e torneira ficam todos cobertos por uma camada de cal)
+* Removedor de cal: Anti-kalk _(com o tempo, o banheiro, azulejo e torneira ficam todos cobertos por uma camada de cal)_
 
-## Documentos
+## documentos
 * PIS/PASEP: Rentenversicherungsnummer
 * CPF: Finanzamt Persönliche Identifikationsnummer
 * CNH: Führerschein
