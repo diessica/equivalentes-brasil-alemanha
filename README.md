@@ -65,6 +65,7 @@
 ## higiene/limpeza
 * Clorofina: Danklorix
 * Álcool: Brennspiritus
+* Removedor de cal: anti-kalk (com o tempo, o banheiro, azulejo e torneira ficam todos cobertos por uma camada de cal)
 
 ## Documentos
 * PIS/PASEP: Rentenversicherungsnummer
