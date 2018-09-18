@@ -14,8 +14,8 @@
 * Cacetinho/pão de sal/pão francês: Brötchen
 * Chantilli: Schlagsahne
 * Creme de leite:
-  1. Crème fraîche _(cuida para não pegar o light!)_;
-  2. Saure sahne/sauerrahm _(o "sour cream", gosto evidente e mais líquido)_;
+  1. Crème Fraîche _(cuida para não pegar o light!)_;
+  2. Saure Sahne/Sauerrahm _(o "sour cream", gosto evidente e mais líquido)_;
   3. Schmand _(tipo sour cream só que mais gordura)_
 * Cuca: Streuselkuchen
 * Dogão: Bratwurst
@@ -25,19 +25,19 @@
 * Leite ninho: Nestle Nido
 * Maizena: Maisstärke
 * Manjericão: Basilikum
-* Pão de queijo: tem pózinho da Yoki na Galeria Kaufhof _(às vezes está na seção de produtos brasileiros mas às vezes está na seção fitness/gluten free, pelo menos em Berlin)_
-* Picanha: Tafelspitz (mit der Fett)
-* Polvilho: Tapioca stärke (sempre tem nos mercados asiáticos)
-* Queijo-coalho: Halloumi Käse (grill cheese)
+* Pão de queijo: tem pózinho da Yoki na Galeria Kaufhof _(às vezes está na seção de produtos brasileiros ou fitness/glúten free, pelo menos em Berlim)_
+* Picanha: Tafelspitz (mit der Fett :ok_hand:)
+* Polvilho: Tapioca stärke _(sempre tem nos mercados asiáticos)_
+* Queijo-coalho: Halloumi Käse
 * Requeijão: Schmelzkäsezubereitung
 * Salsicha de cachorro quente: Wiener Wurst
 * Salsinha: Petersilie
 * Sonho: Berliner
 * Vinagre: Essig (_cuida o nível de álcool, uma vez quase morri comendo uma salada)_
 * Carne vermelha / boi / vaca: Rindfleisch
-* Pepperoni: mesmo nome, mas cuidado que pode ser a pimenta de nome pepperoni e não o "salame apimentado"
+* Pepperoni: mesmo nome _(mas cuidado que pode ser a pimenta de nome pepperoni e não o "salame apimentado")_
 * Fubá: Maismehl
-* Xis: Döner kebab _(gosto diferente, mas a vibe é a mesma do xis gaúcho: comida barata, boa e com porção irada que tu acha em qualquer esquina)_
+* Xis: Döner Kebab _(gosto diferente, mas a vibe é a mesma do xis gaúcho: comida barata, boa e com porção irada que tu acha em qualquer esquina)_
 
 ## bebida
 * Quentão: Glühwein
