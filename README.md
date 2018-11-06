@@ -43,7 +43,7 @@
 ## bebida
 * Quentão: Glühwein
 * Listerine: Berliner luft
-* Skol beats: Radler
+* Skol Beats: Radler
 
 ## remédios
 * Dor de cabeça: Ibu Lysin Hexal; Paracetamol
