@@ -62,6 +62,7 @@
 * "Mercadinho da esquina": Spätkauf
 * Cavanhas: Burgermeister
 * Casas Bahia: [POCO](https://www.poco.de/)
+* Lojas Americanas: Woolworth
 
 ## higiene/limpeza
 * Clorofina: Danklorix
