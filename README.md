@@ -5,8 +5,8 @@
 * Arroz doce/Arroz de leite: Milchreis
 * Arroz:
   1. Basmati Reis _(mais soltinho)_
-  2. Jasmin Reis
-  3. Spitzen Langkornreis (é o mais parecido com o que temos no brasil)
+  2. Jasmin Reis _(pequeno e fino, bom para curry)_
+  3. Spitzen Langkornreis _(mais semelhante)_
 * Feijão preto: Schwarze Bohnen
 * Arroz e feijão: burrito bowl sem as frescuras
 * Batata palha: Kartoffelsticks
@@ -15,8 +15,8 @@
 * Cacetinho/pão de sal/pão francês: Brötchen
 * Chantilli: Sprühsahne
 * Couve: 
-  1. Grünkohl (vende no Denns Biomarkt). É uma folha menor do que a que temos no brasil mas o sabor e texturas são idênticos.
-  2. Schwarzkohl (também no Biomarkt). A folha é grande e mais escura. O sabor é o mesmo (talvez um pouco mais de amargo) mas possui uma textura mais fibrosa.
+  1. Grünkohl – vende no Denns Biomarkt. _(folha menor, sabor e texturas são idênticos)_
+  2. Schwarzkohl – vende no Biomarkt. _(folha é grande e mais escura; sabor é o mesmo, talvez levemente mais amargo; textura é mais fibrosa)_
 * Creme de leite:
   1. Crème Fraîche _(cuida para não pegar o light!)_;
   2. Saure Sahne/Sauerrahm _(o "sour cream", gosto evidente e mais líquido)_;
