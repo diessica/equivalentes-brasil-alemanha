@@ -17,6 +17,7 @@
 * Couve: 
   1. Grünkohl – vende no Denns Biomarkt. _(folha menor, sabor e texturas são idênticos)_
   2. Schwarzkohl – vende no Biomarkt. _(folha é grande e mais escura; sabor é o mesmo, talvez levemente mais amargo; textura é mais fibrosa)_
+  3. Folhas de Kohlrabi - Se acha na maioria dos supermercados, o que as pessoas comem aqui não é a folha então elas tiram as folhas e largam na caixa. É muito comum se você pegar só as folhas ninguém te cobrar por elas (os alemães normalmente pegam pra dar pra coelho). O sabor e a textura são bem parecidos com a couve manteiga.
 * Creme de leite:
   1. Crème Fraîche _(cuida para não pegar o light!)_;
   2. Saure Sahne/Sauerrahm _(o "sour cream", gosto evidente e mais líquido)_;
